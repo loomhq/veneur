@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  loom-docker: loomhq/docker@1.0.2
+  loom-docker: loomhq/docker@1.5.0
 
 workflows:
   version: 2
